@@ -20,6 +20,7 @@ Including another URLconf
 # #__#
 # () >> ()
 # (-m-)
+# (=:=)
 from django.contrib import admin
 from django.urls import path, include
 
